@@ -41,8 +41,6 @@ fun main(args: Array<String>) {
 
     //Class4_4_5().RunMain()
     Class4_4_7().RunMain()
-
-    //TEST
 }
 
 fun makeMessage1(msgType: Int) : String {
